@@ -1,6 +1,7 @@
 # AEMDump
 
 AEMDump is a CLI utility that exports files from Adobe Experience Manager (AEM) WebDAV into a local folder while preserving remote modified timestamps. It talks to AEM WebDAV directly over HTTP and does not require mapping/mounting a WebDAV drive.
+This is usefull when exporting original assets from AEM DAM.
 
 ## Features
 
